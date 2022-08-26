@@ -1,0 +1,11 @@
+Elective : IDK
+PE : Field
+Break Time
+Elective : IDK
+Floreat : L6
+Lunch Time
+Maths : SH M7
+FormTime:Room10
+Economics:Room 7
+English : Room 5
+
